@@ -1,6 +1,6 @@
 # TrueNAS
 
-![TrueNAS Logo]([https://truenas.com/assets/logo.png](https://github.com/chaudharysurya14/Truenas/blob/master/truenas-core.png)) <!-- Replace with actual logo link if available -->
+![TrueNAS Logo]([https://github.com/chaudharysurya14/Truenas/blob/master/truenas-core.png]) <!-- Replace with actual logo link if available -->
 
 ## Overview
 
